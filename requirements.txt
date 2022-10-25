@@ -3,5 +3,4 @@ httpx
 emoji
 pyromod
 requests
-ffmpeg
-ffprobe
+psycopg2
