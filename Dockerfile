@@ -1,4 +1,4 @@
-FROM docker pull linuxserver/ffmpeg
+FROM linuxserver/ffmpeg
 
 
 RUN apt -qq update --fix-missing && \
